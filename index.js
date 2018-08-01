@@ -192,11 +192,7 @@ function moveDodger(e) {
      e.stopPropagation(); 
        }  
   
-  //   else  {
-  //   e.preventDefault();
-  //   e.stopPropagation();    
-  //   } 
-       
+ 
 // });
   // implement me!
   /**
